@@ -1,4 +1,4 @@
-package model;
+package com.register_users.register_login_spring_security.model;
 
 import javax.persistence.*;
 

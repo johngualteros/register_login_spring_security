@@ -1,4 +1,4 @@
-package controller;
+package com.register_users.register_login_spring_security.controller;
 
 import com.register_users.register_login_spring_security.dto.UserRegisterDTO;
 import com.register_users.register_login_spring_security.service.UserService;
